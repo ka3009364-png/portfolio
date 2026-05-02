@@ -1,0 +1,48 @@
+Kota Akshitha
+Aspiring Software Developer
+
+Email: ka3009364@gmail.com
+Phone: 8247768558
+LinkedIn: https://www.linkedin.com/in/akshitha-kota-8254a3301/
+GitHub: https://github.com/ka3009364-png
+
+Professional Summary
+Kota Akshitha is an aspiring software developer with a strong foundation in Java,
+Python, and web technologies. She is passionate about building efficient,
+scalable, and user-friendly applications. With a good understanding of Data
+Structures and Algorithms, she enjoys solving real-world problems and
+continuously improving her technical skills. She is eager to contribute to a
+dynamic development team and grow as a full stack developer.
+
+Skills
+Java, Python, HTML, CSS, JavaScript, SQL, Data Structures & Algorithms
+
+Projects
+Student Portfolio Manager
+- Web-based application to manage and showcase student portfolios, academic
+  records, project details, and achievements with a clean user interface.
+
+Hospital Management System
+- System for patient records, appointments, and staff management with a focus on
+  reducing manual work.
+
+Zomato Data Analysis
+- Python data analysis project for restaurant trends, customer preferences,
+  cleaning, visualization, and insights extraction.
+
+Weather Alerts System
+- Real-time weather monitoring system with API integration and critical weather
+  alerts.
+
+Certifications
+AI/ML Certification - EduSkills (AICTE)
+Python Full Stack Internship - EduSkills
+Full Stack Development - CogniFiz
+IoT Certification - Infosys
+
+Experience
+Completed Python Full Stack Internship with hands-on development experience.
+Gained practical exposure to real-world project development and problem-solving.
+
+Currently Learning
+Advanced Java, System Design Basics, React
